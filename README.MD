@@ -1,6 +1,6 @@
 <div align="center">
 
-# 100 Javascript Days
+# <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> 100 Javascript Days
 
 ### _[Inspired on 100 Days of Code Challenge](https://www.100daysofcode.com/)_
 
