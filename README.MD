@@ -8,4 +8,14 @@
 
 <br/>
 
+<div align="center">
+  
 This repository contains my 100 days of Javascript practice, doing [HackerRank](https://www.hackerrank.com/) or [Exercism](https://exercism.org/) exercises.
+
+<br/>
+  
+| Day | Explanation | Link | Repo |
+|---|---|---|---|
+| 001 | Calculate how many apples and oranges fell in Sam's house. | [HackerRank](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/01-oranges-and-apples.js) |
+
+</div>
