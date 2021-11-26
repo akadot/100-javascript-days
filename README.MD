@@ -4,11 +4,7 @@
 
 ### _[Inspired on 100 Days of Code Challenge](https://www.100daysofcode.com/)_
 
-</div>
-
 <br/>
-
-<div align="center">
   
 This repository contains my 100 days of Javascript practice, doing [HackerRank](https://www.hackerrank.com/) or [Exercism](https://exercism.org/) exercises.
 
@@ -16,6 +12,7 @@ This repository contains my 100 days of Javascript practice, doing [HackerRank](
   
 | Day | Explanation | Link | Repo |
 |---|---|---|---|
-| 001 | Calculate how many apples and oranges fell in Sam's house. | [HackerRank](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/01-oranges-and-apples.js) |
+| 001 | Calculating how many apples and oranges fell in Sam's house | [HackerRank](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/01-oranges-and-apples.js) |
+| 002 | Rounding Grades | [HackerRank](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/02-grading-students.js) |
 
 </div>
