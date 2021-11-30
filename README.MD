@@ -16,5 +16,6 @@ This repository contains my 100 days of Javascript practice, doing [HackerRank](
 | 002 | Rounding Grades | [HackerRank](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/02-grading-students.js) |
 | 003 | Finding most frequently bird sightings | [HackerRank](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/03-migratory-birds.js) |
 | 004 | Determining which cat will reach the mouse first | [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/04-cats-and-mouses.js) |
+| 005 | Calculating the absolute difference between the sums of its diagonals | [HackerRank](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/05-diagonal-difference.js) |
 
 </div>
