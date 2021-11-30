@@ -15,5 +15,6 @@ This repository contains my 100 days of Javascript practice, doing [HackerRank](
 | 001 | Calculating how many apples and oranges fell in Sam's house | [HackerRank](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/01-oranges-and-apples.js) |
 | 002 | Rounding Grades | [HackerRank](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/02-grading-students.js) |
 | 003 | Finding most frequently bird sightings | [HackerRank](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/03-migratory-birds.js) |
+| 004 | Determining which cat will reach the mouse first | [HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/04-cats-and-mouses.js) |
 
 </div>
