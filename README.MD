@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> 100 Javascript Days
 
@@ -6,8 +6,18 @@
 
 <br/>
   
-This repository contains my 100 days of Javascript practice, doing [HackerRank](https://www.hackerrank.com/) or [Exercism](https://exercism.org/) exercises.
+In this repository I will code for 100 days to improve my Javascript skills.
 
+<div align="left">
+
+It's divided in three categories:
+
+* Easy Mode: practicing algorithms, doing [HackerRank](https://www.hackerrank.com/) or [Exercism](https://exercism.org/) exercises;
+* Medium Mode: practicing web development concepts;
+* Hard Mode: doing some advanced and bigger projects;
+
+</div>
+  
 <br/>
   
 | Day | Explanation | Link | Repo |
