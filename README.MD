@@ -25,5 +25,6 @@
   | 005 | Calculating the absolute difference between the sums of its diagonals | [HackerRank](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/05-diagonal-difference.js) |
   | 006 | Counting words in a phrase (incomplete) | [Exercism](https://exercism.org/tracks/javascript/exercises/word-count) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/06-word-count.js) |
   | 007 | Counting pairs of socks to sale | [HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/07-sales-by-match.js) |
+  | 008 | Spliting bills | [HackerRank](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/08-bill-division.js) |
 
 </div>
