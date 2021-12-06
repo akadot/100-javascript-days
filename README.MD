@@ -17,7 +17,7 @@
   <br/>
 
   | Day | Explanation | Link | Repo |
-  |---|---|---|---|
+  |:---:|:---|:---:|:---:|
   | 001 | Calculating how many apples and oranges fell in Sam's house | [HackerRank](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/01-oranges-and-apples.js) |
   | 002 | Rounding Grades | [HackerRank](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/02-grading-students.js) |
   | 003 | Finding most frequently bird sightings | [HackerRank](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/03-migratory-birds.js) |
@@ -26,5 +26,6 @@
   | 006 | Counting words in a phrase (incomplete) | [Exercism](https://exercism.org/tracks/javascript/exercises/word-count) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/06-word-count.js) |
   | 007 | Counting pairs of socks to sale | [HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/07-sales-by-match.js) |
   | 008 | Spliting bills | [HackerRank](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/08-bill-division.js) |
+  | 009 | Buying on budget | [HackerRank](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/09-eletronics-shop.js) |
 
 </div>
