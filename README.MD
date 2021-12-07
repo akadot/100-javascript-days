@@ -27,5 +27,6 @@
   | 007 | Counting pairs of socks to sale | [HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/07-sales-by-match.js) |
   | 008 | Spliting bills | [HackerRank](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/08-bill-division.js) |
   | 009 | Buying on budget | [HackerRank](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/09-eletronics-shop.js) |
+  | 010 | Finding digits | [HackerRank](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/10-find-digits.js) |
 
 </div>
