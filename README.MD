@@ -11,7 +11,7 @@
   It's divided in three categories:
 
   - **Easy Mode (1 - 40):** practicing algorithms, doing [HackerRank](https://www.hackerrank.com/) or [Exercism](https://exercism.org/) exercises;
-  - **Medium Mode (41 - 70):** practicing web development concepts;
+  - **Medium Mode (41 - 70):** practicing web development concepts, using [Wes Bos Javascript30 course](https://javascript30.com/);
   - **Hard Mode (71 - 100):** doing some advanced and bigger projects;
 
   <br/>
