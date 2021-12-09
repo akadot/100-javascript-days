@@ -29,5 +29,6 @@
   | 009 | Buying on budget | [HackerRank](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/09-eletronics-shop.js) |
   | 010 | Finding digits | [HackerRank](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/10-find-digits.js) |
   | 011 | Breaking records | [HackerRank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/11-breaking-records.js) |
+  | 012 | Beautiful days | [HackerRank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [Repo](https://github.com/akadot/100-javascript-days/blob/master/(01-40)%20Algorithms/12-beautiful-days.js) |
 
 </div>
